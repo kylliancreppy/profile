@@ -9,8 +9,9 @@ body {
   color: #A3BAC3
 }
 
-h3 {
-  color: #01A7C2
+h4 {
+  color: #01A7C2;
+  font-weight: bold
 }
 
 a {
