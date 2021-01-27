@@ -9,7 +9,7 @@ body {
   color: #A3BAC3
 }
 
-h2 {
+h3 {
   color: #01A7C2
 }
 
@@ -71,17 +71,6 @@ a {
 
 #first_card p {
   margin-bottom: 40px;
-}
-
-.vertical-box {
-  background: white;
-  padding: 50px;
-  border: 1px solid lightgrey;
-  border-radius: 15px;
-  text-align: center;
-  margin: 15px;
-  box-shadow: 0px 10px 20px
-
 }
 
 @media (max-width: 960px) {
